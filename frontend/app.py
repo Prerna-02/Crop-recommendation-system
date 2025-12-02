@@ -776,15 +776,3 @@ with tab_batch:
 # ===========================================
 # FOOTER
 # ===========================================
-st.markdown("<br><br>", unsafe_allow_html=True)
-st.markdown("""
-<div style="text-align: center; padding: 2rem; background: white; border-radius: 10px; 
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-    <p style="color: #666; margin: 0; font-size: 0.95rem;">
-        🌾 Crop Recommendation System | Powered by Machine Learning & XGBoost
-    </p>
-    <p style="color: #999; margin: 0.5rem 0 0 0; font-size: 0.85rem;">
-        Developed for MAIB Program | SP Jain School of Global Management
-    </p>
-</div>
-""", unsafe_allow_html=True)
